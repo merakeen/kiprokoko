@@ -31,6 +31,8 @@ export default {
         mono: ["Alexandria", "monospace"],
         sans: ["Alexandria", "sans-serif"],
         kablamo: ["Kablammo", "serif"],
+        blackmagic: ["BlackMagic", "serif"],
+        adonais: ["Adonais", "serif"],
       },
       maxWidth: {
         "1/12": "8.333333%",
