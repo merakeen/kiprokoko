@@ -1,4 +1,4 @@
-# Keepro.co
+# kiprokoko.co
 
 - Astro web template used as boilerplate: https://astro.build/themes/details/sorollaportfolio/
 
