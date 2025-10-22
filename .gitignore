@@ -27,3 +27,5 @@ package-lock.json
 .netlify/
 
 bun.lock
+src/content/example.md
+src/content/example.mdx
