@@ -1,8 +1,7 @@
 ---
 title: "Who is that guy"
 description:
-  'Foto de <a class="underline" href="https://unsplash.com/es/@adrigeo_?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Adrianna Geo</a> en <a class="underline" href="https://unsplash.com/es/fotos/una-pintura-en-el-techo-de-un-edificio-1rBg5YSi00c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  '
+  "Who is that guy. It's uh, the other end of town, a block past Maple. Excuse me. I think I know exactly what you mean. Of course not, Biff, now I wouldn't want that to happen. Now, uh, I'll finish those reports up tonight, and I'll run em them on over first thing tomorrow, alright?"
 icon: "3"
 pubDate: "Jun 19 2024"
 heroImage: "/src/assets/adriana.jpg"
