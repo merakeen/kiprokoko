@@ -1,4 +1,4 @@
-# kiprokoko.co
+# KiPROKOKO
 
 - Astro web template used as boilerplate: https://astro.build/themes/details/sorollaportfolio/
 
