@@ -1,21 +1,55 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "KiPROKOKO",
+  "short_name": "KiPROKOKO",
+  "description": "All things Cyprus: video games, sports, hidden spots, food and culture. The best of pop culture, made by KiPROKOKO.",
   "icons": [
     {
-      "src": "/web-app-manifest-192x192.png",
+      "src": "/favicon/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     },
     {
-      "src": "/web-app-manifest-512x512.png",
+      "src": "/favicon/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
     }
   ],
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
-  "display": "standalone"
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#F2F2F2",
+  "background_color": "#F2F2F2",
+  "id": "kiprokoko.app",
+  "lang": "en",
+  "dir": "ltr",
+  "locales": {
+    "en": {
+      "name": "KiPROKOKO",
+      "short_name": "KiPROKOKO",
+      "description": "All things Cyprus: video games, sports, hidden spots, food and culture."
+    },
+    "el": {
+      "name": "ΚιΠΡΟΚΟΚΟ",
+      "short_name": "ΚιΠΡΟΚΟΚΟ",
+      "description": "Όλα για την Κύπρο: βιντεοπαιχνίδια, αθλητισμός, φαγητό και πολιτισμός."
+    }
+  }
 }
