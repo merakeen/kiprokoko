@@ -10,6 +10,7 @@ import vercel from "@astrojs/vercel";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://kiprokoko.vercel.app",
   output:'server',
   integrations: [mdx(), sitemap(), tailwind(), icon()],
   adapter: vercel(),
