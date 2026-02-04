@@ -62,4 +62,4 @@ npm run dev
 
 ## License
 
-The boilerplate template project used as a starter is licensed under the [MIT License](LICENSE). This license applies to all code and assets added by Jose (@jramma) and does not apply to edits or additions by Ikrame (@ikramagix) or any other contributors.
+The boilerplate template project used as a starter is licensed under the [MIT License](LICENSE). This license applies to all code and assets added by Jose (@jramma) and does not apply to edits or additions by Ikrame (@ikramagix) or any other contributors.# kiprokoko
