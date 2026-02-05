@@ -15,7 +15,6 @@ const {
   updatedDate,
   heroImage = "/fran.jpg",
   icon,
-  tags,
 } = Astro.props;
 import { getCollection } from "astro:content";
 const posts = (await getCollection("blog")).sort(
@@ -111,7 +110,7 @@ const getRandomClass = () => {
                 <p>Share:</p>
                 <div class="flex items-center gap-6 text-xl">
                   <a
-                    href="https://kiprokoko.com"
+                    href="https://kiprokoko.vercel.app"
                     target="_blank"
                     class="py-1 pl-3 rounded-md border-1 border-black bg-ppink shadow-card hover:shadow-hover transition"
                   >
